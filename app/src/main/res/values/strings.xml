@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"AndroidAndJavaScript "</string>
+    <string name="js">调用js</string>
+    <string name="js2">调用有参js</string>
+    <string name="webview">WebView</string>
+    <string name="android">Android</string>
+</resources>
